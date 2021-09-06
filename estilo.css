@@ -1,0 +1,35 @@
+.caja {
+    display: inline-block;
+    width: 350px;
+    height: 350px;
+    background: black;
+    color: rgb(255, 185, 56);
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#uno {
+    top: 20px;
+    left: 20px;
+    background: rgb(240, 66, 13);
+   
+}
+
+#dos {
+    top: 20px;
+    left: 20px;
+    background: rgb(0, 0, 0);
+    color:white;
+}
+
+#tres {
+    top: 20px;
+    left: 20px;
+    background: rgb(240, 66, 13);
+}
+
+#cuatro {
+    top: 20px;
+    left: 20px;
+    background: rgb(240, 66, 13);
+}
